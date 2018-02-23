@@ -2369,3 +2369,4 @@
 /zm_cms/spaw2/dialogs/dialog.php
 /zone-h.php
 /~install/
+/vendor/autoload.php
